@@ -115,12 +115,14 @@ docker rmi `docker images|grep "nginx"`
 #先通过docker-compose down 停止服务 后再次执行删除
 
 #导出/导入镜像
+
 #导出镜像
 #格式：docker save -o 存储文件名 存储的镜像
 #存出镜像命名为nginx存在当前目录下
 docker save -o nginx_v1 nginx:latest
 #将导出的镜像以scp方式导到别的服务器上
 scp nginx_v1 @root:192.168.59.111:/opt
+
 #导入镜像，可以异地导入，但是必须要有docker引擎，并且版本不可以差太多
 #格式：docker load < 存出的文件
 docker load < nginx_v1
@@ -261,7 +263,7 @@ for i in `dockef ps -a l grep -i exit / awk '{print $1}' '; do docker rm -f $i;d
 docker stats
 ```
 
-### Docker仓库操作
+### docker仓库操作
 
 ```shell
 #首先下载registry 镜像

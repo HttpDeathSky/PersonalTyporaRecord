@@ -431,19 +431,3 @@ docker run -d -p 80:80 --name nginx-server \
 -v /program/dockerconfig/nginx/logs:/var/log/nginx \
 -v /program/files/images:/store/images nginx
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 
