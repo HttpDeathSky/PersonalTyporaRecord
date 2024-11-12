@@ -10,6 +10,8 @@ https://www.runoob.com/docker/centos-docker-install.html
 
 http://t.csdn.cn/bOzWw
 
+注意：新系统在执行yum操作之前先确认服务器环境，若不具备外网环境或当前系统版本已不受支持，请先更换yum源以及epel源。
+
 1. 卸载原有Docker...
 
    - ```
