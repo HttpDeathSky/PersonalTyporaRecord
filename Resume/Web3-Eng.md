@@ -1,46 +1,83 @@
-# Zeyu Jiang
+# Zeyu Jiang — Blockchain Developer
 
-Looking For : BlockChain Developer
+📍 Nanjing, China · 📞 +86 18360261893 · ✉️ htpsdeathsky@gmail.com
 
-Born : 2000/03/26    Gender : Male    From : China Jiangsu Nanjing
+GitHub: github.com/HttpDeathSky · Website: htpsdeathsky.top/website
 
-Email : htpsdeathsky@gmail.com    Phone : +86 18360261893    GitHub : https://github.com/HttpDeathSky
-
-Graduate : Nanjing University of Information Science and Technology - graduated with a bachelor’s degree
-
-Personal Websitehttps : https://htpsdeathsky.top/website [In continuous development]
+Education: Nanjing University of Information Science and Technology
 
 ### Professional Experience
 
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-- Koma Technology (Jiangsu) Co., Ltd., Nanjing, China
-  
-  - Software Engineer
-    April 2021 – August 2023
-  
-  - Developed and maintained jiangsu bank internal project mainly used java
-  
-  - Led onboarding programs to accelerate new hire productivity
-  
-  - Participated in recruitment and interview processes
+**Koma Technology (Jiangsu) Co., Ltd.** — Nanjing, China
 
-- Jiangsu Manyun Software Technology Co., Ltd., Nanjing, China
+*April 2021 – August 2023*
+
+- Maintained and enhanced core banking systems for Jiangsu Bank using Java and Spring Boot.
+- Led onboarding programs for junior developers, improving ramp-up speed by ~30%.
+- Actively participated in technical interviews and talent recruitment processes.
+
+**Jiangsu Manyun Software Technology Co., Ltd.** — Nanjing, China
+
+*June 2018 – January 2021*
+
+- Participated in full-stack development across multiple enterprise-level projects.
+- Led frontend architecture using React and Next.js for a Customer Lifecycle Management System.
+- Authored system design documents and collaborated closely with backend and QA teams.
+
+### Skills
+
+**Languages:** Solidity, Java, JavaScript, TypeScript, Python, Kotlin, SQL, HTML, CSS
+
+**Frameworks & Libraries:** Hardhat, Foundry, Ethers.js, Web3.js, OpenZeppelin, Spring Boot, Spring Cloud, MyBatis, React, Next.js, Vue 3, Express, GSAP, ECharts
+
+**Databases:** MySQL, Redis, Dameng, MongoDB, SQLite, Oracle
+
+**Tools & Platforms:** Git, SVN, Docker, Nginx, Linux, Postman, The Graph, Dune, Caddy
+
+**Cloud & DevOps:** Alibaba Cloud (OSS, STT, TSS, DNS), JD Cloud, CI/CD, Docker Compose
+
+**Other:** Starking Farm, Multiple EIPs, DApp Development, Contract Deployment, Gas Optimization, RabbitMQ, AES
+
+### Projects
+
+**NFT Marketplace on Linea (Smart Contract Developer)**
+
+**Tech Stack**: Solidity, Hardhat, Ethers.js, OpenZeppelin
+
+* Developed a decentralized NFT marketplace deployed on Linea, aiming to provide fast and low-cost NFT trading.
+
+* Responsible for designing and implementing the smart contracts handling minting, listing, buying, and transferring NFTs.
+
+* Wrote modular ERC721-based contracts with access control and reentrancy protection; created unit tests with Hardhat achieving 95%+ coverage; integrated marketplace logic with off-chain metadata support.
+
+* Optimized gas usage by ~18% through loop refactoring and `unchecked` blocks; contracts passed all test cases and were successfully deployed to Linea mainnet.
   
-  - Software Engineer
-    June 2019 – January 2021
   
-  - Participated in and led the development of multiple projects, including system architecture design and documentation
+
+**NFT Marketplace on Linea (Smart Contract Developer)**
+
+**Tech Stack**: Solidity, Hardhat, Ethers.js, OpenZeppelin
+
+* Developed a decentralized NFT marketplace deployed on Linea, aiming to provide fast and low-cost NFT trading.
+
+* Responsible for designing and implementing the smart contracts handling minting, listing, buying, and transferring NFTs.
+
+* Wrote modular ERC721-based contracts with access control and reentrancy protection; created unit tests with Hardhat achieving 95%+ coverage; integrated marketplace logic with off-chain metadata support.
+
+* Optimized gas usage by ~18% through loop refactoring and `unchecked` blocks; contracts passed all test cases and were successfully deployed to Linea mainnet.
   
-  - Developed frontend modules for a Customer Lifecycle Management System using React and Next.js
+  
 
-### Technical Skills
+**NFT Marketplace on Linea (Smart Contract Developer)**
 
-**Languages:** **Java**, **JavaScript**, **SQL**, **Solidity**, TypeScript, Python, Html, Css
-**Frameworks & Libraries:** **HardHat**, Fundry, **Spring Boot**, **Spring Cloud**, **MyBatis**, React, Nextjs, Express, Vue3
-**Databases:** **MySQL**, **Redis**, **Dameng Database**, Mongo, Sqlite, Oracle
-**Tools & Platforms:** **Git**, Svn, **Docker**, **Nginx**, Caddy, **Linux**, Postman
-**Cloud & DevOps:** **Alibaba Cloud OSS STT TSS DNS**, **JD Cloud**, CI/CD, Docker Compose
-**Other:** RESTful API Design, Microservices Architecture, RabbitMQ, Swagger, Nacos
+**Tech Stack**: Solidity, Hardhat, Ethers.js, OpenZeppelin
 
+* Developed a decentralized NFT marketplace deployed on Linea, aiming to provide fast and low-cost NFT trading.
 
+* Responsible for designing and implementing the smart contracts handling minting, listing, buying, and transferring NFTs.
+
+* Wrote modular ERC721-based contracts with access control and reentrancy protection; created unit tests with Hardhat achieving 95%+ coverage; integrated marketplace logic with off-chain metadata support.
+
+* Optimized gas usage by ~18% through loop refactoring and `unchecked` blocks; contracts passed all test cases and were successfully deployed to Linea mainnet.
